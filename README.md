@@ -1,4 +1,4 @@
-- 👋 Hi, We are Cognition, Aging and Brain Imaging lab from University of Wisconsin - Milwaukee directed by Caitlin Bowman
+- 👋 Hi, We are Cognition, Aging and Brain Imaging lab from University of Wisconsin - Milwaukee directed by Dr. Caitlin Bowman
 - 👀 Our lab is interested in variety of cognitive domains and how they change with advanced age.
 - 🌱 We are currently using a combination of behavioral tasks, computational modeling, and brain imaging techniques that include model-based fMRI and multivariate pattern analyses.
 - 💞️ We'd love to collaborate! Please reach us at email address below and check out our website!
